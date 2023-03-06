@@ -1,0 +1,24 @@
+#title{background-color: #ff4c68;}
+h1{font-family: 'Montserrat-black';font-size: 3.5rem;line-height: 1.5;font-weight: bold;}
+body{font-family: "Montserrat";}
+.container-fluid{padding: 3% 10% ;}
+#iphone-mockup{transform: rotate(20deg); width: 60%;}
+#navigation{font-family: "ubuntu";font-size: 2.5rem; font-weight: bold;padding-right: 20px;}
+.only-title{padding-top: 4.5rem;}
+.nav-item{padding: 0px 13px;}
+.nav-link{font-size: 1.2rem;}
+.download-button{margin: 5% 3% 5% 0;}
+.features-img{color: #ef8172; font-size: 3rem; margin-bottom: 1rem;}
+.features-img:hover{color:#ff4c68;}
+.icon-first{font-size: 1.5rem; font-family: "montserrat-bold"; color: black;}
+.icon-second{color: #8f8f8f;padding: 0 13%;}
+#features{padding: 7% 15%; background-color: white;}
+#testimonials{padding: 2% 15%; text-align: center;background-color: #ef8172;color: #fff;height: 600px;width: auto;} 
+h2{font-family: "Montserrat-bold"; line-height: 1.5;font-size: 3rem; font-weight:bold;}
+.nolonger{padding: 0 90px;}
+.testimonials-image{width: 15%; border-radius: 100%;margin: 20px;}
+.testimonial-image{height: 200px;}
+#press{background-color: #ef8172; text-align: center;padding-bottom: 3%;}
+.press-logo{width: 15%; margin: 20px 20px 50px;}
+#pricing{padding: 100px; text-align: center;}
+.pricing-column{padding: 3% 2%;}
